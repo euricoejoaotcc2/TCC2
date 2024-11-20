@@ -1,0 +1,50 @@
+RESULTADOS DO SEMGREP
+
+Processing file: ./jitsi-horusec.json
+Vulnerability counts:
+  CRITICAL: 0
+  HIGH: 1
+  MEDIUM: 29
+  LOW: 0
+  INFO: 0
+-------------------------
+Processing file: ./juiceshop-horusec.json
+Vulnerability counts:
+  CRITICAL: 0
+  HIGH: 36
+  MEDIUM: 57
+  LOW: 4
+  INFO: 0
+-------------------------
+Processing file: ./php-horusec.json
+Vulnerability counts:
+  CRITICAL: 0
+  HIGH: 62
+  MEDIUM: 10
+  LOW: 0
+  INFO: 0
+-------------------------
+Processing file: ./reaction-horusec.json
+Vulnerability counts:
+  CRITICAL: 0
+  HIGH: 1
+  MEDIUM: 38
+  LOW: 0
+  INFO: 0
+-------------------------
+Processing file: ./rocket-horusec.json
+Vulnerability counts:
+  CRITICAL: 0
+  HIGH: 19
+  MEDIUM: 280
+  LOW: 16
+  INFO: 0
+-------------------------
+Processing file: ./zencart-horusec.json
+Vulnerability counts:
+  CRITICAL: 0
+  HIGH: 750
+  MEDIUM: 1517
+  LOW: 0
+  INFO: 0
+-------------------------

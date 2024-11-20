@@ -1,0 +1,66 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category
+430882,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430883,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430884,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430885,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+430886,JSON Web Token decoded without signature verification,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430887,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430888,Backups allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430889,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+430890,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430891,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+430892,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430893,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430894,Audio recording enabled,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430895,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+430896,Missing TLS,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430897,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430898,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+430899,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430900,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430901,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430902,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430903,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430904,JSON Web Token decoded without signature verification,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430905,Backups allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430906,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430907,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430908,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430909,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430910,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430911,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430912,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430913,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430914,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430915,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430916,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430917,JSON Web Token decoded without signature verification,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430918,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430919,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430920,Android application is missing a uses SDK version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430921,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430922,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430923,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430924,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+430925,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+430926,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430927,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430928,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430929,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430930,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+430931,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+430932,Missing exported attribute,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430933,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430934,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430935,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430936,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430937,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430938,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430939,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430940,Android application is missing a uses SDK version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430941,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430942,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430943,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+430944,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430945,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+430946,Missing TLS,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma

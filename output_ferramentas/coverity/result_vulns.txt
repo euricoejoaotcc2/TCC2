@@ -1,0 +1,48 @@
+Processando arquivo: ./jitsi_meet.csv
+Contagem de vulnerabilidades por impacto:
+  CRITICAL: 0
+  HIGH: 3
+  MEDIUM: 40
+  LOW: 22
+  UNSPECIFIED: 0
+-------------------------
+Processando arquivo: ./juice_shop.csv
+Contagem de vulnerabilidades por impacto:
+  CRITICAL: 0
+  HIGH: 16
+  MEDIUM: 34
+  LOW: 157
+  UNSPECIFIED: 0
+-------------------------
+Processando arquivo: ./php_my_admin.csv
+Contagem de vulnerabilidades por impacto:
+  CRITICAL: 0
+  HIGH: 6
+  MEDIUM: 45
+  LOW: 81
+  UNSPECIFIED: 0
+-------------------------
+Processando arquivo: ./reaction.csv
+Contagem de vulnerabilidades por impacto:
+  CRITICAL: 0
+  HIGH: 9
+  MEDIUM: 7
+  LOW: 37
+  UNSPECIFIED: 0
+-------------------------
+Processando arquivo: ./rocket_chat.csv
+Contagem de vulnerabilidades por impacto:
+  CRITICAL: 0
+  HIGH: 43
+  MEDIUM: 898
+  LOW: 272
+  UNSPECIFIED: 0
+-------------------------
+Processando arquivo: ./zencart.csv
+Contagem de vulnerabilidades por impacto:
+  CRITICAL: 0
+  HIGH: 47
+  MEDIUM: 21
+  LOW: 281
+  UNSPECIFIED: 0
+-------------------------

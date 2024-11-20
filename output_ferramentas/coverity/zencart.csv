@@ -1,0 +1,350 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category
+431000,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431001,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431002,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431003,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431004,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431005,SQL Injection,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431006,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431007,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431008,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431009,Secure attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431010,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431011,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431012,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431013,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431014,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431015,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431016,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431017,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431018,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431019,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431020,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431021,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431022,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431023,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431024,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431025,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431026,Script timeout too long,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431027,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431028,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431029,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431030,Path Manipulation,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431031,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431032,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431033,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431034,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431035,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431036,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431037,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431038,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431039,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431040,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431041,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431042,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431043,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431044,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431045,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431046,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431047,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431048,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431049,Missing or insecure samesite attribute for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431050,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431051,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431052,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431053,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431054,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431055,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431056,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431057,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431058,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431059,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431060,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431061,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431062,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431063,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431064,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431065,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431066,Insecure Cipher,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431067,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431068,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431069,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431070,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431071,Schema allows non strict namespace processing,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431072,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431073,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431074,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431075,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431076,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431077,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431078,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431079,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431080,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431081,Script timeout too long,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431082,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431083,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431084,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431085,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431086,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431087,Unsafe File Inclusion,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431088,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431089,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431090,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431091,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431092,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431093,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431094,Path Manipulation,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431095,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431096,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431097,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431098,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431099,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431100,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431101,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431102,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431103,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431104,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431105,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431106,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431107,Unsafe File Inclusion,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431108,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431109,Path Manipulation,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431110,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431111,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431112,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431113,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431114,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431115,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431116,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431117,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431118,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431119,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431120,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431121,Unsafe File Inclusion,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431122,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431123,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431124,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431125,Certificate verification disabled,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431126,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431127,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431128,Verbose error message,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431129,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431130,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431131,Path Manipulation,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431132,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431133,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431134,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431135,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431136,Unsafe File Inclusion,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431137,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431138,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431139,Broadly scoped session cookie path,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431140,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431141,Verbose error message,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431142,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431143,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431144,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431145,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431146,Verbose error message,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431147,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431148,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431149,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431150,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431151,Path Manipulation,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431152,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431153,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431154,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431155,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431156,Verbose error message,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431157,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431158,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431159,Path Manipulation,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431160,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431161,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431162,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431163,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431164,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431165,Missing or insecure samesite attribute for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431166,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431167,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431168,Schema allows arbitrary nodes,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431169,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431170,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431171,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431172,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431173,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431174,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431175,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431176,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431177,CORS configuration allows non-credentialed requests from all origins,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431178,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431179,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431180,Secure attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431181,Certificate verification disabled,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431182,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431183,Insecure Cipher,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431184,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431185,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431186,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431187,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431188,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431189,Schema allows arbitrary nodes,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431190,Sensitive data in response,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431191,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431192,Unsafe File Inclusion,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431193,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431194,Schema allows arbitrary nodes,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431195,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431196,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431197,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431198,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431199,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431200,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431201,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431202,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431203,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431204,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431205,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431206,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431207,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431208,Schema allows non strict namespace processing,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431209,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431210,Missing or insecure samesite attribute for session cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431211,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431212,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431213,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431214,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431215,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431216,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431217,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431218,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431219,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431220,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431221,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431222,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431223,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431224,CORS configuration allows non-credentialed requests from all origins,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431225,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431226,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431227,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431228,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431229,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431230,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431231,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431232,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431233,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431234,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431235,Path Manipulation,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431236,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431237,HttpOnly attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431238,Verbose error message,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431239,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431240,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431241,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431242,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431243,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431244,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431245,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431246,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431247,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431248,SQL Injection,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431249,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431250,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431251,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431252,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431253,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431254,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431255,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431256,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431257,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431258,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431259,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431260,SQL Injection,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431261,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431262,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431263,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431264,Secure attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431265,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431266,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431267,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431268,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431269,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431270,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431271,Verbose error message,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431272,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431273,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431274,Path Manipulation,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431275,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431276,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431277,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431278,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431279,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431280,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431281,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431282,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431283,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431284,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431285,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431286,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431287,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431288,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431289,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431290,Path Manipulation,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431291,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431292,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431293,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431294,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431295,Sensitive Data Leak,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431296,Path Manipulation,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431297,HttpOnly attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431298,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431299,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431300,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431301,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431302,SQL Injection,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431303,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431304,SQL Injection,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431305,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431306,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431307,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431308,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431309,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431310,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431311,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431312,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431313,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431314,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431315,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431316,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431317,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431318,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431319,Excessive cookie lifetime,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431320,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431321,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431322,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431323,SQL Injection,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431324,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431325,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431326,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431327,Script timeout too long,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431328,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431329,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431330,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431331,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431332,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431333,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431334,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431335,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431336,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431337,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431338,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431339,Insecure random,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431340,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431341,Cross-site Scripting,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431342,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431343,Secure attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431344,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431345,Schema allows an unlimited number of occurrences,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431346,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431347,Path Manipulation,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431348,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma

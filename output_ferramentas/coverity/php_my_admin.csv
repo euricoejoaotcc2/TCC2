@@ -1,0 +1,133 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category
+430750,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430751,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430752,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430753,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430754,Secure attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430755,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430756,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430757,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430758,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430759,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430760,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430761,HttpOnly attribute not set for session cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430762,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430763,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430764,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430765,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430766,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430767,HttpOnly attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430768,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430769,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430770,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430771,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430772,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430773,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430774,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430775,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430776,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430777,Broad filesystem access,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430778,Sensitive data in response,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430779,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430780,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430781,HttpOnly attribute not set for session cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430782,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430783,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430784,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430785,Dynamically loading extensions enabled,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430786,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430787,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430788,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430789,Empty signing key,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430790,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430791,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430792,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430793,Secure attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430794,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430795,Secure attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430796,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430797,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430798,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430799,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430800,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430801,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430802,Session fixation protection disabled,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430803,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430804,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430805,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430806,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430807,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430808,SQL Injection,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430809,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430810,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430811,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430812,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430813,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430814,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430815,Sensitive data in response,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430816,Sensitive data in response,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430817,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430818,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430819,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430820,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430821,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430822,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430823,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430824,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430825,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430826,Missing or insecure samesite attribute for session cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430827,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430828,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430829,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430830,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430831,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430832,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430833,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430834,HttpOnly attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430835,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430836,HttpOnly attribute not set for cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430837,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430838,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430839,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430840,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430841,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430842,Secure attribute not set for session cookie,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430843,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430844,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430845,Empty signing key,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430846,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430847,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430848,Broadly scoped session cookie path,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430849,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430850,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430851,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430852,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430853,Broadly scoped session cookie path,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430854,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430855,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430856,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430857,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430858,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430859,SQL Injection,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430860,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430861,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430862,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+430863,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430864,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430865,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430866,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430867,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430868,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430869,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430870,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430871,Remote file inclusion,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430872,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430873,SQL Injection,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430874,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430875,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430876,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430877,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430878,Broadly scoped session cookie path,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430879,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430880,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430881,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma

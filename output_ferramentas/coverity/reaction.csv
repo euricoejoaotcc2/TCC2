@@ -1,0 +1,54 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category
+430947,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430948,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430949,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430950,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430951,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430952,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430953,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430954,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430955,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430956,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430957,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430958,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430959,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430960,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430961,JSON Web Token decoded without signature verification,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430962,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430963,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430964,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430965,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430966,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430967,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+430968,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430969,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+430970,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+430971,CORS configuration allows non-credentialed requests from all origins,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430972,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430973,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430974,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430975,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430976,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430977,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430978,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430979,Copy-paste error,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+430980,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430981,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430982,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430983,Sending X-Powered-By header,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430984,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430985,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430986,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430987,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430988,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430989,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430990,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430991,Copy-paste error,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+430992,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430993,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430994,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430995,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430996,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430997,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430998,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+430999,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues

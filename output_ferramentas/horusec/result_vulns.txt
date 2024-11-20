@@ -1,0 +1,48 @@
+Processing file: ./jitsi-horusec.json
+Vulnerability counts:
+  CRITICAL: 214
+  HIGH: 44
+  MEDIUM: 6
+  LOW: 8
+  INFO: 0
+-------------------------
+Processing file: ./juiceshop-horusec.json
+Vulnerability counts:
+  CRITICAL: 379
+  HIGH: 107
+  MEDIUM: 8
+  LOW: 3
+  INFO: 0
+-------------------------
+Processing file: ./php-horusec.json
+Vulnerability counts:
+  CRITICAL: 208
+  HIGH: 96
+  MEDIUM: 0
+  LOW: 0
+  INFO: 0
+-------------------------
+Processing file: ./reaction-horusec.json
+Vulnerability counts:
+  CRITICAL: 103
+  HIGH: 2
+  MEDIUM: 1
+  LOW: 3
+  INFO: 0
+-------------------------
+Processing file: ./rocket-horusec.json
+Vulnerability counts:
+  CRITICAL: 1170
+  HIGH: 258
+  MEDIUM: 25
+  LOW: 15
+  INFO: 0
+-------------------------
+Processing file: ./zencart-horusec.json
+Vulnerability counts:
+  CRITICAL: 1227
+  HIGH: 39
+  MEDIUM: 0
+  LOW: 1
+  INFO: 0
+-------------------------

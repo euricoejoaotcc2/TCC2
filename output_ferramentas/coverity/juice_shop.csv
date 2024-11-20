@@ -1,0 +1,208 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category
+448838,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448837,Weak hash algorithm,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448836,Bad use of null-like value,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+448835,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448834,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448833,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448832,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448831,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448830,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448829,Logically dead code,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+448828,Unsafe output of data into innerHtml,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448827,Unsafe evaluation function,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448826,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448825,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448824,JSON Web Token decoded without signature verification,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448823,Unspecified software version,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448822,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448821,JSON Web Token decoded without signature verification,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448820,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448819,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448818,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448817,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448816,Property access or function call before check for null or undefined,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+448815,Container allows filesystem write,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448814,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448813,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448812,Reverse tabnabbing,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448811,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448810,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448809,Bad use of null-like value,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+448808,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448807,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448806,Unsafe output of data into innerHtml,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448805,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448804,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448803,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448802,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448801,Unrestricted number of uploaded file/non-file fields,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448800,JSON Web Token decoded without signature verification,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448799,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448798,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448797,File upload with insecure storage,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448796,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448795,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448794,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448793,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448792,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448791,Sending X-Powered-By header,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448790,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448789,Container requests ability to craft raw network packets,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448788,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448787,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448786,Least privilege violation,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448785,Unsafe evaluation function,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448784,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448783,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448782,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448781,Unsafe output of data into innerHtml,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448780,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448779,JSON Web Token without expiration time,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448778,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448777,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448776,Container requests ability to craft raw network packets,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448775,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448774,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448773,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448772,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448771,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448770,Property access or function call before check for null or undefined,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+448769,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448768,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448767,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448766,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448765,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448764,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448763,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448762,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448761,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448760,Unspecified software version,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448759,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448758,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448757,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448756,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448755,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448753,Container privilege escalation allowed,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448751,Unsafe output of data into innerHtml,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448750,Unsafe output of data into innerHtml,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448748,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448747,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448746,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448745,JSON Web Token decoded without signature verification,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448744,Reverse tabnabbing,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448743,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448742,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448741,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448740,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448739,Unsafe output of data into innerHtml,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448738,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448737,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448736,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448735,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448734,Property access or function call before check for null or undefined,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+448733,Missing TLS,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448732,File upload with unrestricted filesize,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448731,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448730,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448729,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448728,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448727,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448725,Container privilege escalation allowed,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448724,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448723,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448722,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448721,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448720,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448719,Missing rate limiting,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448718,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448717,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448716,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448715,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448714,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448713,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448711,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448710,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448709,Unsafe output of data into innerHtml,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448708,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448707,CORS configuration allows non-credentialed requests from all origins,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448706,Weak hash algorithm,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448705,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448704,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448703,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448702,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448701,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448700,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448699,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448698,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448697,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448696,Least privilege violation,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448695,Property access or function call before check for null or undefined,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+448694,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448693,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448692,Unsafe output of data into innerHtml,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448691,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448690,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448689,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448688,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448687,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448686,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448685,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448684,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448683,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448682,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448681,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448680,Unspecified software version,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448679,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448678,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448677,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448676,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448675,Unsafe evaluation function,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448674,Container allows filesystem write,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448673,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448672,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448671,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448670,JSON Web Token decoded without signature verification,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448669,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448668,Reverse tabnabbing,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448667,Unsafe output of data into innerHtml,High,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448665,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448664,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448663,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448662,Missing global exception handler,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448661,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448660,Missing default HTTP response,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448659,Missing TLS,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448658,Bad use of null-like value,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+448657,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448656,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448655,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448654,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448653,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448652,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448651,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448650,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448649,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448648,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448647,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448646,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448645,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448644,CORS middleware configured globally,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448643,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448642,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448641,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448640,Expression with no effect,Medium,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+448639,Container running as root,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448638,JSON Web Token missing revoke functionality,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448637,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448636,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448635,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448634,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+448633,Hard-coded secret,Low,11/11/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+162797,Logically dead code,Medium,08/10/17,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+162796,Property access or function call before check for null or undefined,Medium,08/10/17,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+162795,Bad use of null-like value,Medium,08/10/17,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+162794,Logically dead code,Medium,08/10/17,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+162793,Property access or function call before check for null or undefined,Medium,08/10/17,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+162792,Bad use of null-like value,Medium,08/10/17,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+162791,Copy-paste error,Medium,08/10/17,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression

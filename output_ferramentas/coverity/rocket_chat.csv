@@ -1,0 +1,1214 @@
+﻿CID,Type,Impact,First Detected,Owner,Classification,Severity,Action,Component,Category
+431349,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431350,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431351,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431352,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431353,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431354,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431355,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431356,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431357,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431358,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431359,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431360,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431361,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431362,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431363,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431364,Unrestricted number of uploaded file/non-file fields,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431365,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431366,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431367,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431368,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431369,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431370,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431371,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431372,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431373,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431374,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431375,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431376,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431377,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431378,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431379,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431380,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431381,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431382,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431383,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431384,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431385,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431386,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431387,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431388,File upload with unrestricted filesize,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431389,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431390,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431391,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431392,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431393,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431394,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431395,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431396,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431397,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431398,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431399,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431400,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431401,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431402,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431403,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431404,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431405,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431406,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431407,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431408,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431409,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431410,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431411,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431412,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431413,Copy-paste error,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431414,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431415,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431416,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431417,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431418,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431419,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431420,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431421,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431422,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431423,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431424,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431425,Identical code for different branches,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431426,Identical code for different branches,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431427,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431428,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431429,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431430,Copy-paste error,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431431,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431432,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431433,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431434,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431435,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431436,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431437,Missing TLS,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431438,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431439,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431440,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431441,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431442,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431443,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431444,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431445,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431446,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431447,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431448,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431449,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431450,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431451,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431452,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431453,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431454,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431455,Container daemon socket exposed,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431456,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431457,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431458,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431459,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431460,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431461,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431462,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431463,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431464,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431465,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431466,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431467,Missing TLS,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431468,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431469,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431470,Missing TLS,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431471,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431472,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431473,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431474,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431475,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431476,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431477,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431478,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431479,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431480,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431481,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431482,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431483,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431484,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431485,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431486,Reverse tabnabbing,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431487,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431488,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431489,Missing TLS,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431490,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431491,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431492,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431493,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431494,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431495,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431496,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431497,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431498,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431499,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431500,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431501,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431502,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431503,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431504,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431505,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431506,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431507,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431508,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431509,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431510,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431511,Reverse tabnabbing,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431512,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+431513,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431514,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431515,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431516,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431517,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431518,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431519,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+431520,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431521,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431522,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431523,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431524,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431525,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431526,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431527,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431528,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431529,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431530,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431531,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431532,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431533,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431534,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431535,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431536,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431537,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431538,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431539,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431540,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431541,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431542,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431543,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431544,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431545,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431546,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431547,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431548,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431549,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431550,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431551,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431552,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431553,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431554,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431555,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431556,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431557,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431558,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431559,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431560,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431561,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431562,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431563,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431564,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431565,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431566,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431567,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431568,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431569,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431570,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431571,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431572,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431573,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431574,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431575,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431576,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431577,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431578,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431579,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431580,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431581,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431582,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431583,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431584,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431585,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431586,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431587,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431588,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431589,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431590,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431591,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431592,Missing TLS,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431593,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431594,Identical code for different branches,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431595,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431596,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431597,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431598,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431599,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431600,Container running as root,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431601,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431602,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431603,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431604,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431605,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431606,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431607,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431608,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431609,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431610,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431611,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431612,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431613,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431614,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431615,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431616,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431617,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431618,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431619,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431620,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431621,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431622,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431623,Missing TLS,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431624,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+431625,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431626,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431627,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431628,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431629,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431630,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431631,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431632,Identical code for different branches,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431633,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431634,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431635,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431636,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431637,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431638,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431639,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431640,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431641,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431642,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431643,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431644,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431645,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431646,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431647,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431648,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431649,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431650,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431651,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431652,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431653,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431654,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431655,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431656,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431657,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431658,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431659,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431660,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431661,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431662,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431663,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431664,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431665,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431666,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431667,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431668,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431669,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431670,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431671,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431672,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431673,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431674,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431675,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431676,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431677,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431678,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431679,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431680,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431681,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431682,Container daemon socket exposed,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431683,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431684,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431685,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431686,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431687,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431688,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431689,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431690,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431691,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431692,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431693,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431694,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431695,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431696,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431697,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431698,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431699,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431700,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431701,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431702,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431703,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431704,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431705,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431706,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431707,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431708,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431709,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431710,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431711,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431712,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431713,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431714,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431715,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431716,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431717,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431718,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431719,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431720,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431721,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431722,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431723,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431724,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431725,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431726,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431727,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431728,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431729,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431730,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431731,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431732,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431733,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431734,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431735,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431736,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431737,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431738,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431739,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431740,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431741,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431742,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431743,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431744,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431745,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431746,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431747,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431748,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431749,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+431750,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431751,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431752,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431753,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431754,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431755,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431756,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431757,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431758,Identical code for different branches,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431759,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431760,Sending X-Powered-By header,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431761,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431762,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431763,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431764,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431765,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431766,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431767,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431768,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+431769,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431770,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431771,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431772,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431773,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431774,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431775,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431776,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431777,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431778,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431779,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431780,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431781,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431782,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431783,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431784,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431785,Container running as root,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431786,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431787,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431788,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431789,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431790,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431791,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431792,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431793,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431794,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431795,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431796,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431797,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431798,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431799,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431800,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431801,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431802,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431803,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431804,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431805,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431806,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431807,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431808,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431809,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431810,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431811,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431812,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431813,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431814,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431815,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431816,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431817,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431818,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431819,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431820,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431821,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+431822,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431823,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431824,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431825,Sending X-Powered-By header,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431826,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431827,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+431828,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431829,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431830,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431831,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431832,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431833,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431834,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431835,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431836,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431837,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431838,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431839,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431840,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431841,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431842,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431843,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431844,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431845,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431846,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431847,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431848,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431849,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431850,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431851,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431852,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431853,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431854,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431855,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431856,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431857,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431858,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431859,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431860,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431861,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431862,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431863,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431864,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431865,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431866,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431867,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431868,CORS configuration allows non-credentialed requests from all origins,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431869,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431870,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431871,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431872,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431873,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431874,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431875,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431876,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431877,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431878,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431879,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431880,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431881,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431882,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431883,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431884,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431885,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431886,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431887,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431888,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431889,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431890,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431891,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431892,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431893,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431894,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431895,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431896,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431897,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431898,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431899,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431900,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431901,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431902,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431903,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431904,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431905,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431906,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431907,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431908,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431909,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431910,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431911,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431912,Identical code for different branches,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431913,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431914,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431915,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431916,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431917,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431918,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431919,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431920,Container running as root,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431921,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431922,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431923,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431924,Unsafe evaluation function,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431925,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431926,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431927,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431928,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431929,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431930,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431931,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431932,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431933,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431934,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431935,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431936,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431937,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431938,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431939,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431940,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431941,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431942,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431943,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431944,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431945,Missing TLS,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431946,Copy-paste error,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431947,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431948,Container running as root,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431949,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431950,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431951,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431952,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431953,Container running as root,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431954,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431955,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431956,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431957,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431958,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431959,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431960,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431961,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431962,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431963,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431964,Container running as root,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431965,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431966,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431967,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431968,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431969,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431970,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431971,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431972,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431973,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431974,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431975,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431976,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431977,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431978,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431979,Copy-paste error,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431980,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431981,Copy-paste error,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431982,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431983,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431984,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431985,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431986,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431987,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431988,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431989,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431990,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431991,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431992,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431993,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431994,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431995,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+431996,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+431997,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431998,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+431999,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432000,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432001,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432002,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432003,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432004,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432005,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432006,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432007,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432008,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432009,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432010,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432011,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432012,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432013,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432014,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432015,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432016,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432017,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432018,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432019,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432020,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432021,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432022,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432023,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432024,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432025,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432026,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432027,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432028,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432029,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432030,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432031,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432032,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432033,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432034,Typo in identifier,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432035,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432036,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432037,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432038,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432039,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432040,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432041,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432042,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432043,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432044,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432045,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432046,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432047,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432048,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432049,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432050,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432051,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432052,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432053,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432054,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432055,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432056,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432057,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432058,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432059,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432060,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432061,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432062,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432063,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432064,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432065,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432066,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432067,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432068,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432069,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432070,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432071,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432072,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432073,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432074,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432075,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432076,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432077,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432078,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432079,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432080,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432081,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432082,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432083,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432084,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432085,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432086,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432087,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432088,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432089,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432090,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432091,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432092,Copy-paste error,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432093,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432094,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432095,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432096,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432097,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432098,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432099,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432100,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432101,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432102,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432103,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432104,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432105,Sending X-Powered-By header,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432106,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432107,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432108,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432109,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432110,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432111,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432112,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432113,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432114,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432115,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432116,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432117,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432118,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432119,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432120,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432121,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432122,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432123,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432124,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432125,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432126,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432127,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432128,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432129,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432130,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432131,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432132,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432133,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432134,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432135,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432136,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432137,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432138,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432139,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432140,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432141,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432142,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432143,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432144,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432145,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432146,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432147,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432148,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432149,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432150,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432151,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432152,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432153,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432154,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432155,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432156,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432157,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432158,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432159,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432160,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432161,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432162,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432163,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432164,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432165,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432166,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432167,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432168,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432169,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432170,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432171,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432172,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432173,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432174,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432175,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432176,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432177,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432178,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432179,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432180,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432181,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432182,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432183,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432184,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432185,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432186,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432187,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432188,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432189,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432190,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432191,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432192,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432193,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432194,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432195,Copy-paste error,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432196,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432197,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432198,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432199,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432200,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432201,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432202,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432203,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432204,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432205,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432206,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432207,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432208,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432209,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432210,Circuit breaker disabled,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432211,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432212,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432213,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432214,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432215,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432216,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432217,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432218,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432219,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432220,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432221,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432222,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432223,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432224,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432225,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432226,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432227,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432228,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432229,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432230,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432231,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432232,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432233,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432234,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432235,Typo in identifier,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432236,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432237,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432238,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432239,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432240,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432241,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432242,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432243,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432244,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432245,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432246,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432247,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432248,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432249,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432250,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432251,Container daemon socket exposed,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432252,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432253,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432254,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432255,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432256,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432257,Identical code for different branches,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432258,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432259,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432260,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432261,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432262,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432263,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432264,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432265,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432266,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432267,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432268,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432269,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432270,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432271,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432272,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432273,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432274,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432275,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432276,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432277,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432278,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432279,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432280,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432281,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432282,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432283,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432284,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432285,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432286,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432287,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432288,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432289,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432290,Missing TLS,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432291,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432292,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432293,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432294,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432295,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432296,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432297,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432298,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432299,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432300,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432301,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432302,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432303,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432304,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432305,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432306,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432307,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432308,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432309,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432310,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432311,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432312,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432313,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432314,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432315,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432316,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432317,Identical code for different branches,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432318,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432319,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432320,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432321,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432322,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432323,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432324,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432325,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432326,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432327,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432328,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432329,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432330,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432331,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432332,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432333,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432334,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432335,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432336,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432337,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432338,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432339,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432340,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432341,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432342,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432343,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432344,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432345,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432346,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432347,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432348,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432349,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432350,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432351,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432352,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432353,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432354,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432355,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432356,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432357,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432358,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432359,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432360,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432361,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432362,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432363,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432364,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432365,Container running as root,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432366,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432367,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432368,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432369,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432370,Container running as root,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432371,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432372,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432373,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432374,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432375,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432376,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432377,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432378,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432379,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432380,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432381,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432382,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432383,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432384,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432385,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432386,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432387,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432388,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432389,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432390,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432391,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432392,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432393,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432394,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432395,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432396,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432397,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432398,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432399,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432400,Weak hash algorithm,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432401,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432402,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432403,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432404,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432405,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432406,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432407,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432408,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432409,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432410,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432411,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432412,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432413,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432414,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432415,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432416,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432417,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432418,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432419,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432420,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432421,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432422,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432423,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432424,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432425,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432426,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432427,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432428,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432429,Typo in identifier,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432430,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432431,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432432,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432433,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432434,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432435,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432436,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432437,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432438,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432439,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432440,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432441,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432442,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432443,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432444,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432445,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432446,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432447,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432448,Hard-coded secret,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432449,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432450,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432451,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432452,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432453,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432454,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432455,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432456,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432457,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432458,Container running as root,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432459,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432460,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432461,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432462,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432463,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432464,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432465,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432466,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432467,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432468,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432469,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432470,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432471,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432472,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432473,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432474,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432475,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432476,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432477,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432478,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432479,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432480,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432481,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432482,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432483,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432484,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432485,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432486,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432487,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432488,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432489,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432490,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432491,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432492,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432493,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432494,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432495,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432496,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432497,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432498,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432499,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432500,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432501,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432502,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432503,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432504,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432505,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432506,Container running as root,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432507,Unspecified software version,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432508,Identical code for different branches,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432509,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432510,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432511,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432512,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432513,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432514,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432515,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432516,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432517,Logically dead code,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues
+432518,Missing TLS,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432519,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432520,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432521,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432522,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432523,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432524,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432525,Least privilege violation,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432526,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432527,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432528,Container requests ability to craft raw network packets,High,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432529,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432530,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432531,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432532,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432533,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432534,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432535,Bad use of null-like value,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432536,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432537,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432538,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432539,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432540,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432541,Container allows filesystem write,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432542,Circuit breaker disabled,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432543,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432544,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432545,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432546,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432547,Same on both sides,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432548,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432549,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432550,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432551,Identical code for different branches,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432552,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432553,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432554,Container privilege escalation allowed,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432555,Unsafe output of data into innerHtml,Low,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Sigma
+432556,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432557,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432558,Property access or function call before check for null or undefined,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences
+432559,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432560,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
+432561,Expression with no effect,Medium,11/16/24,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression
