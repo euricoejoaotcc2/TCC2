@@ -5,12 +5,12 @@ import numpy as np
 
 # Lista dos arquivos e suas respectivas aplicações
 files = {
-    "Jitsi Meet": "./jitsi-meet.csv",
-    "OWASP Juice Shop": "./owasp-juice-shop.csv",
-    "PhpMyAdmin": "./php-my-admin.csv",
-    "Reaction": "./reaction.csv",
-    "Rocket.Chat": "./rocket-chat.csv",
-    "Zen Cart": "./zen-cart.csv",
+    "Jitsi Meet": "./csvs/jitsi-meet.csv",
+    "OWASP Juice Shop": "./csvs/owasp-juice-shop.csv",
+    "PhpMyAdmin": "./csvs/php-my-admin.csv",
+    "Reaction": "./csvs/reaction.csv",
+    "Rocket.Chat": "./csvs/rocket-chat.csv",
+    "Zen Cart": "./csvs/zen-cart.csv",
 }
 
 # Função para criar gráficos com paleta de cores e ordenação decrescente
@@ -49,11 +49,11 @@ def create_bar_charts_with_ordered_values(files):
 
                 # Adicionar barra de cores associada ao gráfico
                 cbar = fig.colorbar(cm.ScalarMappable(norm=norm, cmap="Blues"), ax=ax, pad=0.02)
-                cbar.set_label("Security hotspots (intensidade)")
+                cbar.set_label("Vulnerabilidades de segurança (intensidade)")
 
                 # Personalizar o gráfico
-                ax.set_title(f"Security hotspots por ferramenta utilizada ({app_name})", fontsize=14)
-                ax.set_ylabel("Security hotspots", fontsize=12)
+                ax.set_title(f"Vulnerabilidades de segurança por ferramenta utilizada ({app_name})", fontsize=14)
+                ax.set_ylabel("Vulnerabilidades de segurança", fontsize=12)
                 ax.set_xlabel("Ferramenta utilizada", fontsize=12)
                 ax.set_xticks(range(len(grouped_data.index)))
                 ax.set_xticklabels(grouped_data.index, rotation=45, ha="right", fontsize=10)
