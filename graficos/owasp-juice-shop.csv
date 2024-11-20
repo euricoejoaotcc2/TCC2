@@ -1,0 +1,5 @@
+ferramenta_utilizada, nome_aplicacao,security_total
+SonarCloud,Owasp juice shop,280
+Coverity Scan Static Analysis,Owasp juice shop,207
+Semgrep,Owasp juice shop,97
+Horusec,Owasp juice shop,407

@@ -1,0 +1,5 @@
+ferramenta_utilizada, nome_aplicacao,security_total
+SonarCloud,Rocket chat,360
+Coverity Scan Static Analysis,Rocket chat,1213
+Semgrep,Rocket chat,315
+Horusec,Rocket chat,1468
