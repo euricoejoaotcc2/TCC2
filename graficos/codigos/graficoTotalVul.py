@@ -5,12 +5,12 @@ import numpy as np
 
 # Lista dos arquivos e suas respectivas aplicações
 files = {
-    "Jitsi Meet": "./csvs/jitsi-meet.csv",
-    "OWASP Juice Shop": "./csvs/owasp-juice-shop.csv",
-    "PhpMyAdmin": "./csvs/php-my-admin.csv",
-    "Reaction": "./csvs/reaction.csv",
-    "Rocket.Chat": "./csvs/rocket-chat.csv",
-    "Zen Cart": "./csvs/zen-cart.csv",
+    "Jitsi Meet": "../csvs/jitsi-meet.csv",
+    "OWASP Juice Shop": "../csvs/owasp-juice-shop.csv",
+    "PhpMyAdmin": "../csvs/php-my-admin.csv",
+    "Reaction": "../csvs/reaction.csv",
+    "Rocket.Chat": "../csvs/rocket-chat.csv",
+    "Zen Cart": "../csvs/zen-cart.csv",
 }
 
 # Criar um gráfico consolidado com o total de vulnerabilidades por ferramenta utilizando todos os CSVs
