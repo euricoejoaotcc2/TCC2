@@ -40,7 +40,7 @@ for i, category in enumerate(categories):
     if any(values):
         bars = plt.barh(
             y_positions + i * bar_width, values, height=bar_width,
-            label=f"**{category}**", color=colors[category]
+            label=f"{category}", color=colors[category]
         )
         # Adicionar os valores inteiros sobre as barras com fonte maior
         for bar, value in zip(bars, values):
@@ -53,14 +53,14 @@ for i, category in enumerate(categories):
                 )
 
 # Configurar o gráfico
-plt.yticks(y_positions + bar_width * 1.5, tools, fontsize=12, weight='bold')
+plt.yticks(y_positions + bar_width * 1.5, tools, fontsize=14, weight='bold')
 plt.xlabel("Quantidade de Vulnerabilidades", fontsize=14, weight='bold')
 plt.title("Total de vulnerabilidades por Ferramenta e Categoria", fontsize=16, weight='bold')
 
 # Ajustar título e categorias da legenda em negrito
 legend = plt.legend(title="Categorias", bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=12)
-plt.setp(legend.get_texts(), weight='bold')  # Deixar os textos da legenda em negrito
-plt.setp(legend.get_title(), fontsize=12, weight='bold')  # Título da legenda em negrito
+plt.setp(legend.get_texts(), fontsize=14, weight='bold')  # Deixar os textos da legenda em negrito
+plt.setp(legend.get_title(), fontsize=14, weight='bold')  # Título da legenda em negrito
 
 # Salvar o gráfico como PDF
 plt.tight_layout()
