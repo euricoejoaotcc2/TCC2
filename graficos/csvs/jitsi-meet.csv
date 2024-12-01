@@ -1,0 +1,5 @@
+ferramenta_utilizada, nome_aplicacao,security_total
+SonarCloud,Jitsi-meet,28
+Coverity Scan Static Analysis,Jitsi-meet,65
+Semgrep,Jitsi-meet,30
+Horusec,Jitsi-meet,272
