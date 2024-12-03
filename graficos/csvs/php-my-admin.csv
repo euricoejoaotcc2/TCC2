@@ -1,5 +1,5 @@
 ferramenta_utilizada, nome_aplicacao,security_total
-SonarCloud,PhpMyAdmin,179
+SonarCloud,PhpMyAdmin,188
 Coverity Scan Static Analysis,PhpMyAdmin,132
 Semgrep,PhpMyAdmin,72
 Horusec,PhpMyAdmin,304
