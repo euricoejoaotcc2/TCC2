@@ -4,7 +4,6 @@
 ### Vulnerabilidades relacionadas a credenciais hardcoded:
 - **Total**: 98 vulnerabilidades
 - **Identificadores**: `vuln02 - vuln27`, `vuln29 - vuln99`
-- **Descrição**: Uso de credenciais embutidas no código (senhas, chaves criptográficas, tokens de acesso) que comprometem tanto a segurança dos dados quanto os processos de autenticação.
 
 ---
 
@@ -12,7 +11,6 @@
 ### Vulnerabilidades relacionadas a senhas em URLs hardcoded:
 - **Total**: 3 vulnerabilidades
 - **Identificadores**: `vuln01`, `vuln28`, `vuln65`
-- **Descrição**: Senhas expostas em URLs hardcoded, resultando em falhas criptográficas e possibilidade de ataques CSRF e SSRF.
 
 ---
 
@@ -20,7 +18,6 @@
 ### Vulnerabilidades relacionadas a Client IDs, Secrets e Tokens expostos:
 - **Total**: 4 vulnerabilidades
 - **Identificadores**: `vuln100`, `vuln101`, `vuln102`, `vuln103`
-- **Descrição**: Exposição de tokens, Client IDs e Secrets (LinkedIn, Twitter, GitHub), comprometendo autenticação e integridade do sistema.
 
 ---
 
@@ -28,12 +25,10 @@
 ### Vulnerabilidades relacionadas à configuração incorreta de CORS:
 - **Total**: 3 vulnerabilidades
 - **Identificadores**: `vuln107`, `vuln108`, `vuln109`
-- **Descrição**: Configuração permissiva do CORS, permitindo acessos não autorizados a recursos.
 
 ### Vulnerabilidade relacionada a configuração incorreta no Dockerfile:
 - **Total**: 1 vulnerabilidade
 - **Identificador**: `vuln106`
-- **Descrição**: Uso inadequado de instruções no Dockerfile, como `RUN cd`, em vez de `WORKDIR`.
 
 ---
 
@@ -41,7 +36,6 @@
 ### Vulnerabilidades relacionadas a uso de geradores de números previsíveis:
 - **Total**: 2 vulnerabilidades
 - **Identificadores**: `vuln104`, `vuln105`
-- **Descrição**: Uso de geradores de números aleatórios fracos (`Math.random`), inadequados para contextos de segurança.
 
 ---
 

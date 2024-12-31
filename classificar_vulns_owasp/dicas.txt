@@ -1,0 +1,6 @@
+nao precisa fazer analises aprofundadas, nem supor
+apenas mostrar os dados
+secao mais objetiva
+
+citar nas partes de cada um com imagem a mencao ao owasp top 10
+citar na conlusao que somente o coverity nao fez nenhuma mencao ao owasp top 10
