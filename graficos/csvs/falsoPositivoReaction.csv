@@ -1,0 +1,5 @@
+nome_ferramenta,qtd_falsoPositivo,total_vulnerabilidades
+SonarCloud,7,18
+Horusec,103,109
+Semgrep,1,39
+Coverity,10,53
